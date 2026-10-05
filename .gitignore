@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# IntelliJ / IDE metadata
+.idea/
+*.iml
+out/
+
+# Java / Gradle build outputs
+build/
+**/build/
+.gradle/
+*.class
+
+# Miscellaneous
+*.log
